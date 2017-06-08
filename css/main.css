@@ -1,0 +1,24 @@
+*{
+	font-family: 'Lato', sans-serif;
+}
+
+.first-section{
+	background-image: url(../img/bg.jpeg);
+	height: 100vh; /*alto de la pantalla*/
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+/* TITULO,LINEA Y BAJADA TÍTULO*/
+.first-section h1{
+	padding-top: 2em;
+	color: #FFF;
+	font-size: 70px;
+}
+.line{
+	border-top: 3px solid white;
+}
+#showApp{
+	color: #FFF;
+	font-weight: 400;
+}
